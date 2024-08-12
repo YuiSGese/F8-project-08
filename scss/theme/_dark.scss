@@ -9,4 +9,11 @@ html.dark {
     --top-act-group-bg-color: #292E39;
     --top-act-group-shadow: rgba(0, 0, 0, 0.20);
     --top-act-group-separate: #EDEDF6;
+
+    // dropdown
+    --dropdown-bg-color: #2f3441;
+    --dropdown-box-shadow:#171C2866;
+    --dropdown-arrow-filter: brightness(0) saturate(100%) invert(15%) sepia(6%) saturate(2691%) hue-rotate(186deg) brightness(92%) contrast(82%);
+    --top-menu-border-color: #171C28;
+
 }
