@@ -1,4 +1,5 @@
-@use "../abstracts";
+@use "./abstracts";
+
 
 .dropdown {
     position: absolute;
@@ -13,7 +14,7 @@
 
         position: relative;
 
-        // padding: var(--inner-padding);
+        padding: var(--inner-padding);
 
         border-radius: 20px;
         background: var(--dropdown-bg-color);
