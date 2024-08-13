@@ -6,8 +6,8 @@
     gap: 14px;
 
     @include abstracts.breakpoint(lg) {
-        gap: 10px; 
-        margin-left: 50px;
+        gap: 10px;
+        margin-left: 40px;
     }
 
     @include abstracts.breakpoint(md) {
